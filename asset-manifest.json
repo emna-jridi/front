@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/back/static/css/main.ff010cb3.css",
+    "main.js": "/back/static/js/main.1a837aa8.js",
+    "static/media/bg-sign-in-basic.jpeg": "/back/static/media/bg-sign-in-basic.f327db1d0e4b00ba3c81.jpeg",
+    "static/media/team-1.jpg": "/back/static/media/team-1.0fd36e0ee93dcfacdef8.jpg",
+    "static/media/team-2.jpg": "/back/static/media/team-2.13ae2ce3e12f4cfed420.jpg",
+    "static/media/team-3.jpg": "/back/static/media/team-3.0ef0be95e6850814c79e.jpg",
+    "static/media/team-4.jpg": "/back/static/media/team-4.85c82b6e60178804017f.jpg",
+    "static/media/logo-slack.svg": "/back/static/media/logo-slack.d8feb9c5b2a92c377e8c5b7a10faabc9.svg",
+    "static/media/logo-xd.svg": "/back/static/media/logo-xd.77e7dd1528183ab292936e4f91241cf0.svg",
+    "static/media/logo-invision.svg": "/back/static/media/logo-invision.f3413d25dc0761bcc615835e48482191.svg",
+    "static/media/logo-spotify.svg": "/back/static/media/logo-spotify.3f055cde07c024fb2b73063b46416f1b.svg",
+    "static/media/logo-jira.svg": "/back/static/media/logo-jira.f9c1ddbe3e751a29bd16580977ade064.svg",
+    "static/media/logo-atlassian.svg": "/back/static/media/logo-atlassian.d92c4f81bb3efbf288b3ef71ce2fbfb0.svg",
+    "index.html": "/back/index.html",
+    "main.ff010cb3.css.map": "/back/static/css/main.ff010cb3.css.map",
+    "main.1a837aa8.js.map": "/back/static/js/main.1a837aa8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff010cb3.css",
+    "static/js/main.1a837aa8.js"
+  ]
+}
