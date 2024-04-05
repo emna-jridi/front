@@ -22,7 +22,8 @@
     "axios": "^1.6.7",
     "chart.js": "4.3.0",
     "chroma-js": "2.4.2",
-"formik": "^2.4.5",
+    "date-fns": "^3.6.0",
+    "formik": "^2.4.5",
     "libphonenumber-js": "^1.10.59",
     "prop-types": "15.8.1",
     "react": "18.2.0",
@@ -34,7 +35,7 @@
     "react-router-dom": "^6.22.2",
     "react-scripts": "5.0.1",
     "react-table": "7.8.0",
-"shared": "^0.2.0",
+    "shared": "^0.2.0",
     "stylis": "4.1.4",
     "stylis-plugin-rtl": "2.1.1",
     "yup": "1.1.1"
@@ -72,6 +73,7 @@
     "eslint-plugin-prettier": "4.2.1",
     "eslint-plugin-react": "7.32.2",
     "eslint-plugin-react-hooks": "4.6.0",
+    "gh-pages": "^6.1.1",
     "prettier": "2.8.8"
   },
   "overrides": {
