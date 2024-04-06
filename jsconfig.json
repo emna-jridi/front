@@ -2,8 +2,8 @@
   "compilerOptions": {
     "baseUrl": "src",
     "paths": {
-      "*": ["public/src/*"],
-      "config/*": ["../back/Config/*"]
+      "*": ["public/src/*"]
+    
     }
   }
 }
